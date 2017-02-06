@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "description": "This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.",
+  "main": "karma.conf.js",
+  "license": "MIT",
+  "homepage": "https://github.com/haleyswain/dictionary",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

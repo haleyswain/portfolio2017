@@ -1,0 +1,11 @@
+.hello {
+  text-align: center;
+  background-color: #76C2DB;
+  color: white;
+  background-size: cover;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
