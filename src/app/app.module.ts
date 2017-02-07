@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { routing } from './app.routing';
-
+import { MaterialModule } from '@angular/material';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { ProjectsComponent } from './projects/projects.component';
+import 'hammerjs';
+
 
 @NgModule({
   declarations: [
@@ -19,7 +21,8 @@ import { ProjectsComponent } from './projects/projects.component';
     BrowserModule,
     FormsModule,
     HttpModule,
-    routing
+    routing,
+    MaterialModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
