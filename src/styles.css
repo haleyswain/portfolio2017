@@ -18,7 +18,14 @@
   font-family:'Merriweather', serif;
   animation-name: textglow;
   animation-duration: 10s;
-  animation-iteration-count: infinite; }
+  animation-iteration-count: infinite;
+ }
+
+ .project1 {
+   padding-bottom: 20%;
+   max-height: 100px;
+ }
+
 
   @keyframes textglow {
     0% {
