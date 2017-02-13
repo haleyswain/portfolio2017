@@ -6,3 +6,8 @@
   display: inline-block;
   text-align: initial;
 }
+
+img {
+  max-width: 400px;
+  max-height: 400px;
+}
