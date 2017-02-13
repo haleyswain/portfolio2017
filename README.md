@@ -1,4 +1,5 @@
 # Portfolio
+* This Project contains a portfolio for Haley Swain, a junior developer in Portland, Oregon.
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
 
