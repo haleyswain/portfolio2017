@@ -4,9 +4,10 @@
   display: inline-block;
   text-align: initial;
   margin-bottom: 20%;
+  width: 300px;
+
 }
 
 .row {
   align-items: center;
-  margin-left: 20%;
 }
