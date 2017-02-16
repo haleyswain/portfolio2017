@@ -6,8 +6,8 @@
 .picture {
   max-width: 300px;
   max-height: 300px;
-  float: left;
-  margin-top: 0
+  margin: 40px;
+  position: relative;
 }
 
 .text {
